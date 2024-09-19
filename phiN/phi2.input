@@ -1,0 +1,9 @@
+-- clasical modular polynomial phi2
+phiN := 0;
+phiN := phiN + phiTerms(3,0,1);
+phiN := phiN + phiTerms(2,0,-162000);
+phiN := phiN + phiTerms(2,1,1488);
+phiN := phiN + phiTerms(2,2,-1);
+phiN := phiN + phiTerms(1,0,8748000000);
+phiN := phiN + phiTerms(1,1,40773375);
+phiN := phiN + phiTerms(0,0,-157464000000000);

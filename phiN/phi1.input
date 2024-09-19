@@ -1,0 +1,4 @@
+-- clasical modular polynomial phi1
+phiN := 0;
+phiN := phiN + phiTerms(1,0,1);
+phiN := phiN + phiTerms(0,1,-1);

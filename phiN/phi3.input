@@ -1,0 +1,12 @@
+-- clasical modular polynomial phi3
+phiN := 0;
+phiN := phiN + phiTerms(1,0,1855425871872000000000);
+phiN := phiN + phiTerms(1,1,-770845966336000000);
+phiN := phiN + phiTerms(2,0,452984832000000);
+phiN := phiN + phiTerms(2,1,8900222976000);
+phiN := phiN + phiTerms(2,2,2587918086);
+phiN := phiN + phiTerms(3,0,36864000);
+phiN := phiN + phiTerms(3,1,-1069956);
+phiN := phiN + phiTerms(3,2,2232);
+phiN := phiN + phiTerms(3,3,-1);
+phiN := phiN + phiTerms(4,0,1);

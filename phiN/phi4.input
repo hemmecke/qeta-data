@@ -1,0 +1,23 @@
+-- clasical modular polynomial phi4
+phiN := 0;
+phiN := phiN + phiTerms(0,0,280949374722195372109640625000000000000);
+phiN := phiN + phiTerms(1,0,-364936327796757658404375000000000000);
+phiN := phiN + phiTerms(1,1,-94266583063223403127324218750000);
+phiN := phiN + phiTerms(2,0,158010236947953767724187500000000);
+phiN := phiN + phiTerms(2,1,188656639464998455284287109375);
+phiN := phiN + phiTerms(2,2,26402314839969410496000000);
+phiN := phiN + phiTerms(3,0,-22805180351548032195000000000);
+phiN := phiN + phiTerms(3,1,12519806366846423598750000);
+phiN := phiN + phiTerms(3,2,-914362550706103200000);
+phiN := phiN + phiTerms(3,3,2729942049541120);
+phiN := phiN + phiTerms(4,0,24125474716854750000);
+phiN := phiN + phiTerms(4,1,1194227244109980000);
+phiN := phiN + phiTerms(4,2,1425220456750080);
+phiN := phiN + phiTerms(4,3,80967606480);
+phiN := phiN + phiTerms(4,4,7440);
+phiN := phiN + phiTerms(5,0,-8507430000);
+phiN := phiN + phiTerms(5,1,561444609);
+phiN := phiN + phiTerms(5,2,-2533680);
+phiN := phiN + phiTerms(5,3,2976);
+phiN := phiN + phiTerms(5,4,-1);
+phiN := phiN + phiTerms(6,0,1);
