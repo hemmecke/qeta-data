@@ -1,1 +1,1 @@
-etaQuotientIdealGenerators:=[M2-M1+2, M3-M1+3, M4-M1+4, M5-M1+6];
+etaQuotientIdealGenerators:=[M1-M2-2, M1-M3-3, M1-M4-4, M1-M5-6];
