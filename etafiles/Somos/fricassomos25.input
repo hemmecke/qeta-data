@@ -1,0 +1,7 @@
+-- eta relations --
+g1:=E5^6-E1^5*E25-5*E1^4*E25^2-15*E1^3*E25^3-25*E1^2*E25^4-25*E1*E25^5;
+-- Somos eta relations --
+x25_6_30:=-E5^6+E1^5*E25+5*E1^4*E25^2+15*E1^3*E25^3+25*E1^2*E25^4+25*E1*E25^5;
+-- Relation relations --
+relationRelations := [_
+x25_6_30+g1];

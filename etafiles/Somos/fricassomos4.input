@@ -1,0 +1,7 @@
+-- eta relations --
+g1:=E2^24-E1^16*E4^8-16*E1^8*E4^16;
+-- Somos eta relations --
+t4_24_48:=-E2^24+E1^16*E4^8+16*E1^8*E4^16;
+-- Relation relations --
+relationRelations := [_
+t4_24_48+g1];

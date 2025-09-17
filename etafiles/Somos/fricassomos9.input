@@ -1,0 +1,7 @@
+-- eta relations --
+g1:=E3^12-E1^9*E9^3-9*E1^6*E9^6-27*E1^3*E9^9;
+-- Somos eta relations --
+q9_12_36:=-E3^12+E1^9*E9^3+9*E1^6*E9^6+27*E1^3*E9^9;
+-- Relation relations --
+relationRelations := [_
+q9_12_36+g1];
